@@ -1,0 +1,190 @@
+body::before {
+    display: block;
+    content: '';
+    height: 50px;
+}
+@media (min-width: 768px) {
+    .news-input{
+        width: 50%;
+    }
+}
+.img1{
+    margin-left: 50px;
+}
+
+.navbar-brand {
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+a{
+    color: black;
+}
+.firefox{
+    margin-left: 30px;
+}
+
+#btn1{
+    box-shadow: 3px 3px 5px grey;
+}
+
+#para1{
+    margin-right: 200px;
+    text-align: left;
+}
+
+#para2{
+    text-align: inherit;
+    margin-left: 300px;
+    width: 450px;
+}
+
+#para3{
+    width: 550px;
+    margin-left: 250px;
+}
+
+h5{
+    margin-left: 350px;
+}
+
+h4{
+    margin-left: 40px;
+}
+
+h3{
+    margin-top: 150px;
+    margin-left: 350px;
+}
+.p1{
+    border-bottom:rgb(255, 63, 63) 2px solid;
+    width: 150px;
+}
+#para4{
+    text-align: initial;
+    margin-left: 250px;
+    width: 450px;
+}
+
+#para5{
+    margin-left: 350px;
+    text-align: inherit;
+    width: 450px;
+}
+
+#btn1{
+    align-content: initial;
+    margin-right: 120px;
+}
+#card1{
+    width: 300px;
+    box-shadow: 3px 3px 5px grey;
+    margin-left: 100px;
+    height: 350px;
+}
+
+.card-title{
+    margin: 0px;
+    align-content: center;
+    text-align: center;
+}
+.card-img-top{
+    width: 100px;
+    margin-top: 50px;
+}
+.card-text{
+    text-align: center;
+}
+
+#btn3{
+    box-shadow: 3px 3px 5px grey;
+}
+#btn4{
+    margin-left: 20px;
+}
+.row{
+    margin-left: 50px;
+}
+
+.card-3{
+    margin-top: 100px;
+}
+.faq{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+h6{
+    margin-left: 450px;
+}
+.h4{
+    margin-left: 350px;
+    text-align:inherit;
+    
+}
+.input{
+    margin-left: 350px;
+    margin-top: 50px;
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    border: none;
+    margin-bottom: 50px;
+    padding-left: 20px;
+}
+
+#footer{
+    background-color:rgb(40, 40, 61) ;
+}
+
+#img2{
+    margin-left: 550px;
+}
+
+.div-img{
+  position: relative;
+  margin-top: 100px;  
+}
+
+.grid-container{
+    position: relative;
+    background-color: blue;
+    height: 200px;
+    border-radius: 100px 0px 0px 100px;
+    width: 400px;
+}
+
+.img{
+    position: absolute;
+    z-index: 1;
+    right: 110px;
+    bottom: 20px;
+    width: 400px;
+} 
+.div-img2{
+  position: relative; 
+  margin-top: 100px; 
+}
+
+.grid-container2{
+    position: relative;
+    background-color: blue;
+    height: 200px;
+    border-radius: 0px 100px 100px 0px;
+    width: 400px;
+}
+
+.img2{
+    position: absolute;
+    z-index: 1;
+    left: 110px;
+    bottom: 20px;
+    width: 400px;
+    height: 250px;
+    margin-top: 200px;
+    margin-right: 350px;
+} 
+
